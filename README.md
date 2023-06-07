@@ -1,2 +1,2 @@
 # myappweb
-mi primera app Flask
+mi primera app
